@@ -43,3 +43,8 @@ Cambiado a: `<resources> <code path="index.ts" order="1"/> <css path="css/Linear
 Así agregue el elemento css.
 
 7. Generar el archivo `ManifestTypes.d.ts` con el siguiente comando. `npm run refreshTypes`
+
+
+8. Implementación de la lógica " El siguiente paso después de implementar el archivo de manifiesto es implementar la lógica del componente mediante TypeScript." la lógica se implementa en el archivo `index.ts`
+
+9. Definí variables privadas en el arcivo `index.ts`, estas variables privadas permiten a la clase LinearInputControl manejar su estado interno, interactuar con el DOM para mostrar y capturar datos del usuario, y comunicarse con el framework de PowerApps para integrarse correctamente en una aplicación de PowerApps.
